@@ -8,6 +8,11 @@ Creiamo un array contenente le partite di basket di un’ipotetica tappa del cal
 
 Con un form passare come parametri GET name, mail e age e verificare (cercando i metodi che non conosciamo nella documentazione) che name sia più lungo di 3 caratteri, che mail contenga un punto e una chiocciola e che age sia un numero. Se tutto è ok stampare “Accesso riuscito”, altrimenti “Accesso negato”
 
+<!-- for age i used PHP NaN -->
+
+<!-- define("GREETING", "Welcome to W3Schools.com!"); -->
+<!-- echo GREETING; -->
+
 # Bonus
 
 Prendere un paragrafo abbastanza lungo, contenente diverse frasi. Prendere il paragrafo e suddividerlo in tanti paragrafi <p>. Ogni punto un nuovo paragrafo.
